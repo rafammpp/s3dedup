@@ -1,4 +1,5 @@
 images
 images_dedup
-dedup.txt
+dupes.txt
+fingerprints
 url_translate.json
